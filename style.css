@@ -1003,7 +1003,7 @@ input:focus {
 ::::::::::::::::::::::::::::::::::::*/
 
 .single-team {
-    border-bottom: 10px solid #ffc900;
+    border-bottom: 10px solid green;
     box-shadow: 0 0 30px #ddd;
     margin-bottom: 30px;
 }
